@@ -1,16 +1,36 @@
-### Hi there 👋
+<br />
+<p align="center">
+  <a href="https://git.litschi.xyz/litschi">
+    <img src="https://docs.gitea.io/images/gitea.png" alt="Logo" width="200" height="200">
+  </a>
 
-<!--
-**tklitschi/tklitschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3 align="center">Main Git Source</h3>
 
-Here are some ideas to get you started:
+  <p align="center">
+    Most of my Private Repos are found at my private Git Website
+    <br />
+    <a href="https://git.litschi.xyz/litschi"><strong>Explore»</strong></a>
+    <br />
+    <br />
+  </p>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <h3 align="center"> Hi there 👋</h3>
+  
+  <p align="center">🔭 I currently study at TU Darmstadt </a>
+  <p align="center">🌱 I’m currently learning nix</p> 
+  <p align="center">😄 Pronouns: Tobi/litschi</p> 
+  <br />
+  <br />
+</p> 
+ 
+<p align="center">
+  <h3 align="center"> How to reach me</h3>
+  
+  <p align="center">🐦 Twitter: </a><a href="https://twitter.com/tlitschi">twitter.com/tlitschi </a>
+  <p align="center">✉️ Email: litschi@darmstadt.ccc.de</p> 
+  <p align="center">🔐Matrix: @litschi:litschi.xyz</p> 
+  <br />
+  <br />
+</p> 
